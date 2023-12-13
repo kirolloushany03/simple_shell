@@ -1,1 +1,1 @@
-this the simple shell project
+this how we did the  simple shell project
